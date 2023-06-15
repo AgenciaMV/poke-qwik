@@ -42,7 +42,9 @@ useTask$(({track}) => {
             class={{
                 'hidden': !imageLoaded.value
             }} 
-        />
+            />
+            
+        
         </div>
     )
 });

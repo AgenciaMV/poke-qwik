@@ -78,3 +78,7 @@ body {
 button:disabled {
 @apply bg-gray-800;
 }
+
+.li-menu {
+  @apply text-sky-300 hover:text-blue-700 hover:bg-sky-200 bg-indigo-500 shadow-lg shadow-indigo-500/50 p-2 rounded-lg cursor-pointer hover:font-bold text-center;
+}
